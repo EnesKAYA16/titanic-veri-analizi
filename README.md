@@ -17,7 +17,7 @@ Titanic yolcu verisi üzerinde keşifsel veri analizi (EDA) projesi.
 - `analiz.ipynb` → Tüm analiz ve grafikler
   
 ## 🌐 Canlı Demo
-[Buraya Streamlit linki gelecek]
+- https://6f88cwoxlpvndm4ax2jy5c.streamlit.app/
 
 ## 🚀 Nasıl Çalıştırılır
 ```bash
