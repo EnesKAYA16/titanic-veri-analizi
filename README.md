@@ -15,3 +15,11 @@ Titanic yolcu verisi üzerinde keşifsel veri analizi (EDA) projesi.
 
 ## 📁 Dosyalar
 - `analiz.ipynb` → Tüm analiz ve grafikler
+  
+## 🌐 Canlı Demo
+[Buraya Streamlit linki gelecek]
+
+## 🚀 Nasıl Çalıştırılır
+```bash
+py -m streamlit run app.py
+```
